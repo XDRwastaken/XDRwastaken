@@ -2,8 +2,8 @@
 
 Your local loser who's writing bad code everyday.
 
-- 🔭 I’m currently working on... [dunno really](https://files.catbox.moe/scf8nb.gif)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) & [Crystal](https://crystal-lang.org/)
+- 🔭 I’m currently working on... [dunno really](https://files.catbox.moe/scf8nb.gif).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) & [Crystal](https://crystal-lang.org/).
 - ⚡ Fun fact: JavaScript sucks.
 <div align="center">
 
