@@ -2,7 +2,7 @@
 
 Your local loser who's writing bad code everyday.
 
-- 🔭 I’m currently working on [Zid(https://github.com/XandrCopyrighted/Zid).
+- 🔭 I’m currently working on [Zid](https://github.com/XandrCopyrighted/Zid).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) & [Crystal](https://crystal-lang.org/).
 - ⚡ Fun fact: JavaScript sucks, really.
 <div align="center">
