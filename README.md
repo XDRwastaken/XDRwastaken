@@ -17,4 +17,3 @@ Your local loser who's writing bad code everyday.
 ## Connect with Me
 
 [![Mail](https://img.shields.io/badge/duckduckgo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white)](mailto:xxdr@duck.com)
-[![Revolt Server](https://img.shields.io/badge/Revolt_Server-FF4655?style=for-the-badge&logo=revolt.chat&logoColor=white)](https://rvlt.gg/22zGfce3)
