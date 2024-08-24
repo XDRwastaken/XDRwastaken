@@ -5,7 +5,7 @@
 Your local loser who's writing bad code everyday.
 
 <p>🔭 I’m currently working on <a href="https://github.com/XDRwastaken/Cazic">Cazic</a>.<br>
-🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust</a>, <a href="https://crystal-lang.org/">Crystal</a>, & <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>.<br>
+🌱 I’m currently learning <a href="https://rust-lang.org/">Rust</a>, <a href="https://crystal-lang.org/">Crystal</a>, & <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>.<br>
 ⚡ Fun fact: I'm now 15!!</p>
 
 ## Languages and Tools
