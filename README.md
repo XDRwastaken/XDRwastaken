@@ -4,7 +4,7 @@
 
 Your local loser who's writing bad code everyday.
 
-<p>🔭 I’m currently working on <a href="https://github.com/XDRwastaken/Cazic">Cazic</a>.<br>
+<p>🔭 I’m currently working on <a href="https://github.com/XDRwastaken/Crowsa">Crowsa</a>.<br>
 🌱 I’m currently learning <a href="https://rust-lang.org/">Rust</a>, <a href="https://crystal-lang.org/">Crystal</a>, & <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>.<br>
 ⚡ Fun fact: I'm now 15!!</p>
 
@@ -14,7 +14,7 @@ Your local loser who's writing bad code everyday.
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Gitpod](https://img.shields.io/badge/gitpod-FFAE33?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io)
-[![Zed](https://img.shields.io/badge/zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)](https://zed.dev)
+[![Lapce](https://img.shields.io/badge/lapce-3B82F6?style=for-the-badge&logo=lapce&logoColor=white)](https://lapce.dev)
 
 ## Connect with Me
 
